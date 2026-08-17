@@ -1,0 +1,80 @@
+{
+  "entityId": "minzhen-restaurant-xikou",
+  "publicationStatus": "independent-public-research",
+  "merchantAuthorized": false,
+  "snapshotDate": "2026-08-17",
+  "entity": {
+    "name": "民镇食府",
+    "category": ["江浙菜", "奉化本地菜"],
+    "address": "宁波市奉化区溪口镇百丈路20弄2幢7-16号",
+    "telephone": "0574-88875777"
+  },
+  "stableFacts": [
+    {
+      "field": "name",
+      "value": "民镇食府",
+      "sources": [
+        "https://www.haishu.gov.cn/art/2024/12/9/art_1229100536_59098560.html",
+        "https://gs.ctrip.com/html5/you/foods/fooddetail/1020/5224916.html",
+        "https://www.trip.com/restaurant/china/ningbo/detail/city-11374775/"
+      ]
+    },
+    {
+      "field": "address",
+      "value": "宁波市奉化区溪口镇百丈路20弄2幢7-16号",
+      "sources": [
+        "https://www.trip.com/restaurant/china/ningbo/detail/city-11374775/",
+        "https://nb.bendibao.com/tour/2020714/57540.shtm"
+      ]
+    },
+    {
+      "field": "telephone",
+      "value": "0574-88875777",
+      "sources": [
+        "https://www.trip.com/restaurant/china/ningbo/detail/city-11374775/",
+        "https://nb.bendibao.com/tour/2020714/57540.shtm"
+      ]
+    },
+    {
+      "field": "category",
+      "value": "江浙菜",
+      "sources": ["https://gs.ctrip.com/html5/you/foods/fooddetail/1020/5224916.html"]
+    },
+    {
+      "field": "tourismAssociation",
+      "value": "宁波文旅精品线路将民镇食府列为溪口特色餐馆，并在相关线路中与溪口蒋家宴场景关联",
+      "sources": ["https://www.haishu.gov.cn/art/2024/12/9/art_1229100536_59098560.html"]
+    }
+  ],
+  "dynamicSnapshots": [
+    {
+      "field": "openingHours",
+      "value": "携程页面显示08:30-14:00、16:00-20:30",
+      "observedAt": "2026-08-17",
+      "verifyBeforeUse": true,
+      "source": "https://gs.ctrip.com/html5/you/foods/fooddetail/1020/5224916.html"
+    },
+    {
+      "field": "price",
+      "value": "携程页面显示人均约99元",
+      "observedAt": "2026-08-17",
+      "verifyBeforeUse": true,
+      "source": "https://gs.ctrip.com/html5/you/foods/fooddetail/1020/5224916.html"
+    },
+    {
+      "field": "menuSignals",
+      "value": ["奉化白斩鸡", "猪油渣芋艿羹", "大黄鱼", "软糕", "麦饼夹肉", "盐水虾", "葱油海鲈鱼"],
+      "observedAt": "2026-08-17",
+      "verifyBeforeUse": true,
+      "source": "https://gs.ctrip.com/html5/you/foods/fooddetail/1020/5224916.html"
+    }
+  ],
+  "unknownFacts": [
+    "当前停车条件",
+    "包厢数量与预订条件",
+    "无障碍与老人友好设施",
+    "最大接待人数",
+    "当天菜品供应、份量与价格"
+  ],
+  "publicationBoundary": "Independent public-source research; not a merchant website, endorsement or real-time service promise."
+}

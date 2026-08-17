@@ -14,3 +14,13 @@ Pages:
 - https://geo.hukaoai.com/nearby.html
 - https://geo.hukaoai.com/menu.html
 - https://geo.hukaoai.com/facts.json
+
+# Independent public-source research
+
+The following pages are separate from TEST-001. They describe real-world entities from cited public sources.
+They are not merchant websites and are not merchant-authorized. Dynamic information must be verified before use.
+
+- https://geo.hukaoai.com/research/index.html
+- https://geo.hukaoai.com/research/minzhen/index.html
+- https://geo.hukaoai.com/research/minzhen/facts.json
+- https://geo.hukaoai.com/research/minzhen/llms.txt

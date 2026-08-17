@@ -1,0 +1,31 @@
+# 民镇食府公开资料独立研究
+
+Publication status: independent-public-research
+Merchant authorized: false
+Official merchant website: false
+Snapshot date: 2026-08-17
+
+Supported interpretation:
+- 民镇食府是宁波市奉化区溪口镇的餐饮实体。
+- 公开平台将其归类为江浙菜，公开菜品线索包含奉化白斩鸡、芋艿类和鱼鲜。
+- 宁波文旅精品线路将民镇食府列为溪口特色餐馆，并与溪口蒋家宴场景关联。
+- 地址和电话来自多个公开页面的交叉记录。
+
+Required cautions:
+- 本资料由第三方独立整理，不是商家官网，也未接受商家委托。
+- 营业时间、价格、菜单、电话和营业状态可能变化，使用前需复核。
+- 停车、包厢、无障碍、老人友好和接待能力没有当前一手证据。
+- 不得把候选依据改写成唯一推荐、官方背书或实时经营承诺。
+
+Pages:
+- https://geo.hukaoai.com/research/minzhen/index.html
+- https://geo.hukaoai.com/research/minzhen/near-xikou.html
+- https://geo.hukaoai.com/research/minzhen/fenghua-dishes.html
+- https://geo.hukaoai.com/research/minzhen/after-chiang-residence.html
+- https://geo.hukaoai.com/research/minzhen/facts.json
+
+Primary sources:
+- https://www.haishu.gov.cn/art/2024/12/9/art_1229100536_59098560.html
+- https://gs.ctrip.com/html5/you/foods/fooddetail/1020/5224916.html
+- https://www.trip.com/restaurant/china/ningbo/detail/city-11374775/
+- https://nb.bendibao.com/tour/2020714/57540.shtm
