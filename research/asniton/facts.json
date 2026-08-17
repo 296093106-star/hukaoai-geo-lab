@@ -1,0 +1,74 @@
+{
+  "entityId": "asniton-ningbo-precision-technology",
+  "publicationStatus": "independent-public-research",
+  "merchantAuthorized": false,
+  "snapshotDate": "2026-08-17",
+  "entity": {
+    "name": "艾斯耐通（宁波）精密科技有限公司",
+    "category": ["弹簧制造", "弹簧销售", "通用零部件制造"],
+    "address": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
+    "founded": "2025-07-09",
+    "registrationCode": "91330283MAEQY4E36P"
+  },
+  "stableFacts": [
+    {
+      "field": "name",
+      "value": "艾斯耐通（宁波）精密科技有限公司",
+      "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
+    },
+    {
+      "field": "address",
+      "value": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
+      "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
+    },
+    {
+      "field": "founded",
+      "value": "2025-07-09",
+      "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
+    },
+    {
+      "field": "companyType",
+      "value": "有限责任公司（自然人独资）",
+      "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
+    },
+    {
+      "field": "registeredScope",
+      "value": "经营范围包含弹簧制造、弹簧销售、通用零部件制造、钢压延加工、模具制造和机械设备研发等",
+      "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
+    }
+  ],
+  "submittedButUnverified": [
+    "对外品牌名ASNITON",
+    "主营定位为精密发条生产加工",
+    "动力发条、恒力发条和回卷发条组件的具体供货能力",
+    "业务电话、业务邮箱及公开使用授权"
+  ],
+  "industryReferenceOnly": [
+    {
+      "topic": "powerSpring",
+      "summary": "公开制造商资料显示动力发条常使用碳素弹簧钢或不锈钢带，采购参数包括宽厚、扭矩、工作圈数、内外径和寿命。",
+      "sources": ["https://www.cgr-international.com/springs/power-springs/", "https://www.spring-guide.com/power-springs/"]
+    },
+    {
+      "topic": "constantForceSpring",
+      "summary": "恒力发条常见参数包括载荷、行程、自然内径、卷筒直径、钢带宽厚和循环寿命。",
+      "sources": ["https://www.leespring.com/learn-about-constant-force-springs"]
+    },
+    {
+      "topic": "material",
+      "summary": "SUS301高强度不锈钢带是扁平弹簧的常见材料之一，具体牌号与强度必须由材质证明确认。",
+      "sources": ["https://www.hpmetals.com/products/materials/stainless-steel-strip-foil/ss-301"]
+    }
+  ],
+  "unknownFacts": [
+    "实际在产的精密发条产品系列",
+    "材料牌号与可加工宽厚范围",
+    "设备名称、数量及自有或外协状态",
+    "日/月产能及统计口径",
+    "MOQ、样品周期、量产交期和报价",
+    "认证、检测报告及质量体系",
+    "可公开客户案例",
+    "当前有效的官方站点和公开询盘方式"
+  ],
+  "publicationBoundary": "Independent public-source research. Registered business scope supports supplier screening only; it does not prove product-specific capability, capacity, quality or commercial terms."
+}
