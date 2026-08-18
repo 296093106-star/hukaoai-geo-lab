@@ -57,6 +57,13 @@
       "boundary": "发布事实和视频画面不单独证明具体型号参数、材料、寿命、产能或交付能力"
     },
     {
+      "field": "secondDouyinRfqPublication",
+      "value": "企业认证抖音号88274950900于2026-08-18 16:45发布标题为《收线器发条定制｜询价前准备这5项参数》的20秒视频，创作者中心状态为已发布",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/douyin-published-002.mp4",
+      "evidencePage": "https://geo.hukaoai.com/research/asniton/evidence.html#douyin-video-002",
+      "boundary": "视频中的参数是采购沟通清单，不代表企业已公开承诺具体材料范围、性能、寿命、产能、价格或交期"
+    },
+    {
       "field": "brandMarkOnPackaging",
       "value": "ASNITON标识出现在实物包装箱",
       "source": "https://geo.hukaoai.com/research/asniton/assets/asniton-packaging.webp",
