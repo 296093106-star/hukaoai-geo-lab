@@ -1,8 +1,13 @@
 {
   "entityId": "asniton-ningbo-precision-technology",
-  "publicationStatus": "independent-public-research",
-  "merchantAuthorized": false,
-  "snapshotDate": "2026-08-17",
+  "publicationStatus": "authorized-project-material-and-public-research",
+  "merchantAuthorized": true,
+  "authorization": {
+    "confirmedAt": "2026-08-18",
+    "method": "企业负责人经项目联系人确认",
+    "scopes": ["facts", "content", "channels", "images"]
+  },
+  "snapshotDate": "2026-08-18",
   "entity": {
     "name": "艾斯耐通（宁波）精密科技有限公司",
     "category": ["弹簧制造", "弹簧销售", "通用零部件制造"],
@@ -37,9 +42,37 @@
       "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
     }
   ],
+  "firstPartyProjectEvidence": [
+    {
+      "field": "brandMarkOnPackaging",
+      "value": "ASNITON标识出现在实物包装箱",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/asniton-packaging.webp",
+      "boundary": "支持品牌标识与项目实物包装关联，不单独证明商标权属"
+    },
+    {
+      "field": "flatSpiralSpringSample",
+      "value": "项目资料包含平面涡卷形金属弹簧样件实拍",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/flat-spiral-spring.webp",
+      "boundary": "不单独证明型号、材料、尺寸、扭矩、寿命或量产状态"
+    },
+    {
+      "field": "recoilAssemblySamples",
+      "value": "项目资料包含透明壳体回卷结构及盒装卷簧组件实拍",
+      "sources": [
+        "https://geo.hukaoai.com/research/asniton/assets/transparent-recoil-assembly.webp",
+        "https://geo.hukaoai.com/research/asniton/assets/boxed-spring-component.webp"
+      ],
+      "boundary": "正式产品名称、应用和性能待确认"
+    },
+    {
+      "field": "testControllerVideo",
+      "value": "9.68秒视频显示控制器在12.000频率下运行，画面计数约9.8万次",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/test-controller-web.mp4",
+      "boundary": "未展示被测产品、工装和完整设备，不构成产品寿命结论"
+    }
+  ],
   "submittedButUnverified": [
-    "对外品牌名ASNITON",
-    "主营定位为精密发条生产加工",
+    "主营定位为精密发条生产加工的正式产品目录",
     "动力发条、恒力发条和回卷发条组件的具体供货能力",
     "业务电话、业务邮箱及公开使用授权"
   ],
@@ -61,7 +94,7 @@
     }
   ],
   "unknownFacts": [
-    "实际在产的精密发条产品系列",
+    "实物样件对应的正式产品名称、型号和当前量产状态",
     "材料牌号与可加工宽厚范围",
     "设备名称、数量及自有或外协状态",
     "日/月产能及统计口径",
@@ -70,5 +103,5 @@
     "可公开客户案例",
     "当前有效的官方站点和公开询盘方式"
   ],
-  "publicationBoundary": "Independent public-source research. Registered business scope supports supplier screening only; it does not prove product-specific capability, capacity, quality or commercial terms."
+  "publicationBoundary": "The company principal has confirmed publication of the supplied project materials. Public registration and visual evidence support entity and sample-level statements only; they do not by themselves prove product specifications, capacity, quality, lifetime or commercial terms."
 }
