@@ -50,6 +50,13 @@
       "boundary": "账号截图支持企业渠道的一手自述；未获得可公开检索的抖音主页URL，具体产品参数和案例仍需核验"
     },
     {
+      "field": "firstDouyinEvidencePublication",
+      "value": "企业认证抖音号88274950900于2026-08-18 15:42发布标题为《宁波精密发条厂家｜定时器、收线器发条实拍》的18.683秒视频，创作者中心状态为已发布",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/douyin-published-001.mp4",
+      "evidencePage": "https://geo.hukaoai.com/research/asniton/evidence.html#douyin-channel",
+      "boundary": "发布事实和视频画面不单独证明具体型号参数、材料、寿命、产能或交付能力"
+    },
+    {
       "field": "brandMarkOnPackaging",
       "value": "ASNITON标识出现在实物包装箱",
       "source": "https://geo.hukaoai.com/research/asniton/assets/asniton-packaging.webp",
