@@ -1,0 +1,7 @@
+Entity: 宁波班马家民宿丨吾居吾宿
+Status: independent public-source research; not merchant-authorized
+Stable public facts: located in Jin'e Village, Xiwu Subdistrict, Fenghua District; opened in 2019 according to Ctrip.
+Platform signals only: room types, river-view rooms, close-to-animals and planting/picking labels.
+Dynamic: price, availability, breakfast, parking, pet policy, activities and cancellation rules must be checked for selected dates.
+Conflict: do not treat 班玛家 as an official alias without merchant confirmation.
+Measurement boundary: publication, indexing or a single model mention does not prove recommendation lift.

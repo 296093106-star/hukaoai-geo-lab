@@ -1,0 +1,22 @@
+{
+  "experimentId": "BANMA-3P-GEO-001",
+  "publicationStatus": "independent-research",
+  "merchantAuthorized": false,
+  "snapshotDate": "2026-08-19",
+  "publicationDate": "2026-08-19",
+  "baseline": {"questions": 12, "targetMentions": 10, "targetTop3Mentions": 6, "newPageCitations": 0},
+  "entity": {
+    "name": "宁波班马家民宿丨吾居吾宿",
+    "address": "宁波市奉化区西坞街道金峨村",
+    "opened": 2019
+  },
+  "platformSignals": ["大床房", "双床房", "家庭房", "江河景房", "亲近动物", "种植采摘"],
+  "dynamicFacts": ["评分", "评论数", "价格", "房态", "早餐", "停车", "宠物政策", "活动", "退改"],
+  "conflicts": ["班马家与班玛家写法关系未经商家确认"],
+  "sources": [
+    "https://m.ctrip.com/html5/hotel/hoteldetail/29550262.html",
+    "https://www.trip.com/hotels/ningbo-hotel-detail-29550262/wuju-wusu-hostel/",
+    "https://www.chinaholiday.com/cn/city_1409/542921.html"
+  ],
+  "claimBoundary": "Publication, indexing or a single model mention does not prove recommendation lift."
+}
