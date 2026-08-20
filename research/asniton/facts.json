@@ -99,6 +99,16 @@
       "boundary": "未展示被测产品、工装和完整设备，不构成产品寿命结论"
     }
   ],
+  "projectGeneratedEvidence": [
+    {
+      "field": "drawingSampleTestReportExplainer",
+      "value": "项目使用企业已授权公开的样件、回卷结构、包装和测试控制器画面，制作24秒《图纸、样件、测试报告分别解决什么问题》解释视频及对应采购核验页",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/project-document-sample-report-004.mp4",
+      "supportingPage": "https://geo.hukaoai.com/research/asniton/drawing-sample-test-report.html",
+      "publicationState": "public-project-video-not-yet-registered-as-douyin-publication",
+      "boundary": "只支持采购资料追溯方法和项目画面记录，不证明具体型号的材料、扭矩、寿命、产能、认证或交付能力"
+    }
+  ],
   "submittedButUnverified": [
     "定时器、收线器等发条产品的正式型号目录和规格范围",
     "动力发条、恒力发条和回卷发条组件的具体供货能力",
