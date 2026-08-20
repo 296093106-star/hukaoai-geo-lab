@@ -160,6 +160,16 @@
       "sourcePage": "https://geo.hukaoai.com/research/asniton/spring-fatigue-life-test.html",
       "initialMetrics": { "impressions": 3, "reads": 0, "likes": 0, "comments": 0 },
       "boundary": "文章公开和渠道展现不等于搜索收录、豆包引用或推荐提升"
+    },
+    {
+      "channel": "今日头条",
+      "account": "宁波艾斯耐通企业",
+      "title": "从图纸到首件样品，精密发条采购如何建立追溯链？",
+      "url": "https://www.toutiao.com/article/7676105999724167730/",
+      "publishedAt": "2026-08-20T21:44:00+08:00",
+      "sourcePage": "https://geo.hukaoai.com/research/asniton/drawing-to-sample-process.html",
+      "initialMetrics": { "impressions": 0, "reads": 0, "likes": 0, "comments": 0 },
+      "boundary": "文章公开和AI声明可见只证明渠道内容已发布，不等于搜索收录、豆包引用或推荐提升"
     }
   ],
   "submittedButUnverified": [
