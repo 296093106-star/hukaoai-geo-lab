@@ -1,0 +1,23 @@
+{
+  "experimentId": "LONGMEN-3P-GEO-001",
+  "publicationStatus": "independent-research",
+  "merchantAuthorized": false,
+  "snapshotDate": "2026-08-20",
+  "publicationDate": "2026-08-20",
+  "baseline": {"questions": 12, "targetMentions": 11, "targetTop3Mentions": 11, "newPageCitations": 0, "strictFactAccuracyPercent": 0.0},
+  "entity": {
+    "name": "蒋家龙门千层饼（溪口店）",
+    "address": "宁波市奉化区溪口镇武岭西路150幢1号",
+    "telephone": "+86-574-88854018"
+  },
+  "platformProductSignals": ["千层饼原味", "千层饼海苔味", "千层饼礼盒", "芋艿饼", "长条海苔", "苔菜"],
+  "categoryEvidence": "溪口千层饼制作技艺是省级非遗项目；不是单店独占认证",
+  "dynamicFacts": ["营业时间", "电话有效性", "价格", "库存", "现烤时间", "礼盒规格", "邮寄"],
+  "conflicts": ["150幢1号门店、历史公开地址与生产主体关系未经商家确认"],
+  "sources": [
+    "https://gs.ctrip.com/html5/you/foods/fooddetail/1020/270692.html",
+    "https://you.ctrip.com/food/83/270692.html",
+    "https://www.ihningbo.cn/directory/show/504"
+  ],
+  "claimBoundary": "Publication, indexing or a single model mention does not prove recommendation lift."
+}

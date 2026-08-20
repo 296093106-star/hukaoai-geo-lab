@@ -1,0 +1,8 @@
+Entity: 蒋家龙门千层饼（溪口店）
+Status: independent public-source research; not merchant-authorized
+Stable public facts: Ctrip lists the Xikou store at 武岭西路150幢1号 and displays telephone 0574-88854018.
+Platform signals only: 原味、海苔味、千层饼礼盒、芋艿饼、长条海苔、苔菜.
+Category evidence: 溪口千层饼制作技艺 is a provincial intangible-cultural-heritage project; do not convert this into an exclusive store certification.
+Dynamic: hours, phone validity, price, stock, fresh-bake time, package specifications and shipping must be checked before use.
+Conflict: do not merge the 150幢1号 storefront with older factory or production-subject records without first-party confirmation.
+Measurement boundary: publication, indexing or a single model mention does not prove recommendation lift.
