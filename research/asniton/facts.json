@@ -97,6 +97,20 @@
       "value": "9.68秒视频显示控制器在12.000频率下运行，画面计数约9.8万次",
       "source": "https://geo.hukaoai.com/research/asniton/assets/test-controller-web.mp4",
       "boundary": "未展示被测产品、工装和完整设备，不构成产品寿命结论"
+    },
+    {
+      "field": "newMaterialCoilFootage",
+      "value": "项目资料新增一段4.9秒竖屏视频，画面包含卷状金属带材",
+      "source": "project source file e849e0db193eacb5a6588bc349a33861.mp4",
+      "sha256": "1d678532de7595a230929d240e6060d2bd86c36a6fe122be5ba63addffedd473",
+      "boundary": "画面不证明材料牌号、宽厚、供应商、批次、企业权属或对应产品"
+    },
+    {
+      "field": "newEquipmentFootage",
+      "value": "项目资料新增两段竖屏设备运行视频，时长分别约6.85秒和4.52秒",
+      "sources": ["project source file 2e85d26f7f0bd6220c05f84254c52f4f.mp4", "project source file 4bc7dd2456edd0fa3ba8757c949f7e91.mp4"],
+      "sha256": ["5c3ec1f1b830f4eaf48a5ac376c5513804980075038fde460f66f680ae4bc8b3", "afe68a56bfafea8d55613bbb88ea070ba769817656503c1a8248527524709d5a"],
+      "boundary": "仅支持设备运行画面存在；设备名称、型号、权属、工序、产能及与具体产品的关系待确认"
     }
   ],
   "projectGeneratedEvidence": [
@@ -110,6 +124,24 @@
       "publishedAt": "2026-08-20T18:35:00+08:00",
       "initialMetrics": { "plays": 0, "likes": 0, "comments": 0, "shares": 0, "favorites": 0, "followersGained": 0 },
       "boundary": "只支持采购资料追溯方法和项目画面记录，不证明具体型号的材料、扭矩、寿命、产能、认证或交付能力"
+    },
+    {
+      "field": "materialToSampleExplainerDraft",
+      "value": "项目使用新增卷状材料和设备画面及既有样件、包装素材制作30秒《一根发条从材料到样件，要核对哪些节点》解释视频",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/project-material-to-sample-005.mp4",
+      "supportingPage": "https://geo.hukaoai.com/research/asniton/spring-material-thickness-torque.html",
+      "publicationState": "public-project-draft-not-douyin-published",
+      "sha256": "43b1228d36ed2884724bb6a4d565f57a17a5883f54f2d76f7199e3d9a5e31f02",
+      "boundary": "只解释材料、图纸、样件与报告追溯方法；不证明材料牌号、设备能力或具体产品性能"
+    },
+    {
+      "field": "fatigueTestBoundaryExplainerDraft",
+      "value": "项目使用测试控制器、回卷样件和新增设备画面制作25秒《疲劳测试次数为什么不能直接等于产品寿命》解释视频",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/project-fatigue-test-boundary-006.mp4",
+      "supportingPage": "https://geo.hukaoai.com/research/asniton/spring-fatigue-life-test.html",
+      "publicationState": "public-project-draft-not-douyin-published",
+      "sha256": "0da138ababfc98617e3dbe96dc55b17ed6bf722d61c325aae36d3c087f207013",
+      "boundary": "只解释测试条件和证据边界；控制器频率和计数不构成任何具体型号的寿命结论"
     }
   ],
   "submittedButUnverified": [
