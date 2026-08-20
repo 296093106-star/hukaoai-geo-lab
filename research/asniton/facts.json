@@ -150,6 +150,18 @@
       "boundary": "只解释测试条件和证据边界；控制器频率和计数不构成任何具体型号的寿命结论"
     }
   ],
+  "externalPublications": [
+    {
+      "channel": "今日头条",
+      "account": "宁波艾斯耐通企业",
+      "title": "发条寿命测试为什么不能只看循环次数？",
+      "url": "https://www.toutiao.com/article/7676079520566247987/",
+      "publishedAt": "2026-08-20T20:30:00+08:00",
+      "sourcePage": "https://geo.hukaoai.com/research/asniton/spring-fatigue-life-test.html",
+      "initialMetrics": { "impressions": 3, "reads": 0, "likes": 0, "comments": 0 },
+      "boundary": "文章公开和渠道展现不等于搜索收录、豆包引用或推荐提升"
+    }
+  ],
   "submittedButUnverified": [
     "定时器、收线器等发条产品的正式型号目录和规格范围",
     "动力发条、恒力发条和回卷发条组件的具体供货能力",
