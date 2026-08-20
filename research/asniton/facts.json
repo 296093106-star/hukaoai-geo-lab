@@ -126,11 +126,14 @@
       "boundary": "只支持采购资料追溯方法和项目画面记录，不证明具体型号的材料、扭矩、寿命、产能、认证或交付能力"
     },
     {
-      "field": "materialToSampleExplainerDraft",
+      "field": "materialToSampleExplainer",
       "value": "项目使用新增卷状材料和设备画面及既有样件、包装素材制作30秒《一根发条从材料到样件，要核对哪些节点》解释视频",
       "source": "https://geo.hukaoai.com/research/asniton/assets/project-material-to-sample-005.mp4",
       "supportingPage": "https://geo.hukaoai.com/research/asniton/spring-material-thickness-torque.html",
-      "publicationState": "public-project-draft-not-douyin-published",
+      "publicationState": "douyin-published-20260820-2028",
+      "douyinAccount": "88274950900",
+      "publishedAt": "2026-08-20T20:28:00+08:00",
+      "initialMetrics": { "plays": 0, "likes": 0, "comments": 0, "shares": 0, "favorites": 0, "followersGained": 0 },
       "sha256": "43b1228d36ed2884724bb6a4d565f57a17a5883f54f2d76f7199e3d9a5e31f02",
       "boundary": "只解释材料、图纸、样件与报告追溯方法；不证明材料牌号、设备能力或具体产品性能"
     },
