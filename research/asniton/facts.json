@@ -7,7 +7,7 @@
     "method": "企业负责人经项目联系人确认",
     "scopes": ["facts", "content", "channels", "images"]
   },
-  "snapshotDate": "2026-08-18",
+  "snapshotDate": "2026-08-20",
   "entity": {
     "name": "艾斯耐通（宁波）精密科技有限公司",
     "category": ["弹簧制造", "弹簧销售", "通用零部件制造"],
@@ -62,6 +62,14 @@
       "source": "https://geo.hukaoai.com/research/asniton/assets/douyin-published-002.mp4",
       "evidencePage": "https://geo.hukaoai.com/research/asniton/evidence.html#douyin-video-002",
       "boundary": "视频中的参数是采购沟通清单，不代表企业已公开承诺具体材料范围、性能、寿命、产能、价格或交期"
+    },
+    {
+      "field": "thirdDouyinProcurementVerificationPublication",
+      "value": "企业认证抖音号88274950900于2026-08-20 16:51发布标题为《采购精密发条，为什么不能只看外形》的20秒视频，创作者中心状态为已发布",
+      "source": "https://geo.hukaoai.com/research/asniton/assets/douyin-published-003.mp4",
+      "evidencePage": "https://geo.hukaoai.com/research/asniton/evidence.html#douyin-video-003",
+      "supportingPage": "https://geo.hukaoai.com/research/asniton/spring-appearance-vs-performance.html",
+      "boundary": "视频说明采购核验字段和证据对应关系，不证明企业已经公开承诺任何具体型号的材料、扭矩、寿命、产能、认证或交期"
     },
     {
       "field": "brandMarkOnPackaging",
