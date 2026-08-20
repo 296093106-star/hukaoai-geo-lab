@@ -138,11 +138,14 @@
       "boundary": "只解释材料、图纸、样件与报告追溯方法；不证明材料牌号、设备能力或具体产品性能"
     },
     {
-      "field": "fatigueTestBoundaryExplainerDraft",
+      "field": "fatigueTestBoundaryExplainer",
       "value": "项目使用测试控制器、回卷样件和新增设备画面制作25秒《疲劳测试次数为什么不能直接等于产品寿命》解释视频",
       "source": "https://geo.hukaoai.com/research/asniton/assets/project-fatigue-test-boundary-006.mp4",
       "supportingPage": "https://geo.hukaoai.com/research/asniton/spring-fatigue-life-test.html",
-      "publicationState": "public-project-draft-not-douyin-published",
+      "publicationState": "douyin-published-20260820-2059",
+      "douyinAccount": "88274950900",
+      "publishedAt": "2026-08-20T20:59:00+08:00",
+      "initialMetrics": { "plays": 0, "likes": 0, "comments": 0, "shares": 0, "favorites": 0, "followersGained": 0 },
       "sha256": "0da138ababfc98617e3dbe96dc55b17ed6bf722d61c325aae36d3c087f207013",
       "boundary": "只解释测试条件和证据边界；控制器频率和计数不构成任何具体型号的寿命结论"
     }
