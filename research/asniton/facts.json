@@ -7,11 +7,13 @@
     "method": "企业负责人经项目联系人确认",
     "scopes": ["facts", "content", "channels", "images"]
   },
-  "snapshotDate": "2026-08-20",
+  "snapshotDate": "2026-08-21",
   "entity": {
     "name": "艾斯耐通（宁波）精密科技有限公司",
     "category": ["弹簧制造", "弹簧销售", "通用零部件制造"],
-    "address": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
+    "registeredAddress": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
+    "factoryOperatingAddress": "浙江省宁波市奉化区尚田街道梅山路5号",
+    "publicBusinessPhone": "18058589678",
     "founded": "2025-07-09",
     "registrationCode": "91330283MAEQY4E36P"
   },
@@ -25,6 +27,18 @@
       "field": "address",
       "value": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
       "sources": ["https://www.shuididp.cn/yp-70f4786512d876a53c7c3685d3104e01.html"]
+    },
+    {
+      "field": "factoryOperatingAddress",
+      "value": "浙江省宁波市奉化区尚田街道梅山路5号",
+      "sources": ["merchant-confirmed-2026-08-21"],
+      "boundary": "实际厂区地址与登记地址分别保留；地图导航前仍需核对坐标和入口"
+    },
+    {
+      "field": "publicBusinessPhone",
+      "value": "18058589678",
+      "sources": ["customer-intake-workbook", "merchant-confirmed-2026-08-21"],
+      "boundary": "用于企业业务询盘；业务邮箱仍未确认"
     },
     {
       "field": "founded",
@@ -175,7 +189,7 @@
   "submittedButUnverified": [
     "定时器、收线器等发条产品的正式型号目录和规格范围",
     "动力发条、恒力发条和回卷发条组件的具体供货能力",
-    "业务电话、业务邮箱及公开使用授权"
+    "业务邮箱及公开使用授权"
   ],
   "industryReferenceOnly": [
     {
