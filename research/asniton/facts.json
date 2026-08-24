@@ -7,11 +7,12 @@
     "method": "企业负责人经项目联系人确认",
     "scopes": ["facts", "content", "channels", "images"]
   },
-  "snapshotDate": "2026-08-21",
+  "snapshotDate": "2026-08-24",
   "entity": {
     "name": "艾斯耐通（宁波）精密科技有限公司",
     "category": ["弹簧制造", "弹簧销售", "通用零部件制造"],
     "registeredAddress": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
+    "mapPoiAddress": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
     "factoryOperatingAddress": "浙江省宁波市奉化区尚田街道梅山路5号",
     "publicBusinessPhone": "18058589678",
     "founded": "2025-07-09",
@@ -33,6 +34,12 @@
       "value": "浙江省宁波市奉化区尚田街道梅山路5号",
       "sources": ["merchant-confirmed-2026-08-21"],
       "boundary": "实际厂区地址与登记地址分别保留；地图导航前仍需核对坐标和入口"
+    },
+    {
+      "field": "mapPoiAddress",
+      "value": "浙江省宁波市奉化区尚田街道梅山路7-1号内",
+      "sources": ["merchant-confirmed-2026-08-24"],
+      "boundary": "项目联系人最新确认该地址用于地图精确定位；现有照片未包含完整门牌和道路环境"
     },
     {
       "field": "publicBusinessPhone",
@@ -125,6 +132,18 @@
       "sources": ["project source file 2e85d26f7f0bd6220c05f84254c52f4f.mp4", "project source file 4bc7dd2456edd0fa3ba8757c949f7e91.mp4"],
       "sha256": ["5c3ec1f1b830f4eaf48a5ac376c5513804980075038fde460f66f680ae4bc8b3", "afe68a56bfafea8d55613bbb88ea070ba769817656503c1a8248527524709d5a"],
       "boundary": "仅支持设备运行画面存在；设备名称、型号、权属、工序、产能及与具体产品的关系待确认"
+    },
+    {
+      "field": "factoryEntranceAndWorkshopImages",
+      "value": "项目于2026-08-24收到4张厂区入口、车间、线材盘和设备区域实拍，其中入口右侧可见ASNITON Co., Ltd.标识",
+      "sources": [
+        "https://geo.hukaoai.com/research/asniton/assets/factory-entrance-asniton.webp",
+        "https://geo.hukaoai.com/research/asniton/assets/factory-entry-workshop-view.webp",
+        "https://geo.hukaoai.com/research/asniton/assets/production-equipment-area.webp",
+        "https://geo.hukaoai.com/research/asniton/assets/material-coil-machines.webp"
+      ],
+      "evidencePage": "https://geo.hukaoai.com/research/asniton/evidence.html#factory-workshop-evidence",
+      "boundary": "支持厂区环境、线材盘和设备存在性；不证明门牌号、地图坐标、设备型号、权属、产能或具体产品能力"
     }
   ],
   "projectGeneratedEvidence": [
@@ -216,7 +235,7 @@
     "MOQ、样品周期、量产交期和报价",
     "认证、检测报告及质量体系",
     "可公开客户案例",
-    "当前有效的官方站点和公开询盘方式"
+    "当前有效的官方站点以及除已确认业务电话外的公开询盘方式"
   ],
   "publicationBoundary": "The company principal has confirmed publication of the supplied project materials. Public registration and visual evidence support entity and sample-level statements only; they do not by themselves prove product specifications, capacity, quality, lifetime or commercial terms."
 }
